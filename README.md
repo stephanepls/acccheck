@@ -1,1 +1,1 @@
-# acccheck
+# Acccheck SMB Brute-Force Tool
